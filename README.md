@@ -186,5 +186,7 @@ rabbitmqadmin publish \
 
 ### See also
 
+- [OneGuard Micro-Service Architecture Core Library for Java](https://github.com/OneGuardSolutions/msa-core) -
+    library for easy implementation of micro-services in Java that implements this protocol
 - [RabbitMQ Clients & Developer Tools](https://www.rabbitmq.com/devtools.html) -
     documentation for varius RabbitMQ client libraries

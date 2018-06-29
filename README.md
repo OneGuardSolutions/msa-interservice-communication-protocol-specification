@@ -178,7 +178,7 @@ The command below sends this minimal message to service `example-service`:
 
 ```bash
 rabbitmqadmin publish \
-    exchange=example-service \
+    exchange=service.example-service \
     routing_key=anything \
     payload='{"id":"42944b91-a8df-4e88-8a62-98284496a67d","type":"example.message","issuer":{"name":"example-service","id":"c035a5f5-1db5-4bae-bd01-d6966b402f70"},"payload":{},"occurredAt":1514764800000}' \
     properties='{"content_type":"application/json"}'

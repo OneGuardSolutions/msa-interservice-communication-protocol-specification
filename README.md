@@ -14,8 +14,8 @@ Each service instance is identified with a service name and instance ID.
 Each service instance subscribes to two queues - one specific to the instance
 and one that is load-balanced between all instances of the service.
 
-Service queue is bound to the exchange **`service.{service_name}`**,
-and instance queue is bound to the exchange **`service.{service-name}.{instance-id}`**.
+Service queue is bound to the exchange named **`service.{service_name}`**,
+and instance queue is bound to the exchange named **`service.{service-name}.{instance-id}`**.
 
 ### Message format
 

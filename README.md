@@ -1,6 +1,6 @@
-# OneGuard Micro-Service Architecture Inter-Service Communication Protocol Secification
+# OneGuard Micro-Service Architecture Inter-Service Communication Protocol Specification
 
-Secification of asynchronous Inter-Service Communication for OneGuard Micro-Service Architecture ecosystem.
+Specification of asynchronous Inter-Service Communication for OneGuard Micro-Service Architecture ecosystem.
 
 ## Architecture overview
 
